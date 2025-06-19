@@ -13,6 +13,8 @@ Aplicación Android capaz de detectar si el conductor de un vehículo se está q
 - [Integración con Firebase](#integración-con-firebase)
 - [Notas de Seguridad y Privacidad](#notas-de-seguridad-y-privacidad)
 - [Autores](#autores)
+- [Referencias](#referencias)
+- [Licencia](#licencia)
 
 ---
 
